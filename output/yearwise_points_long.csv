@@ -1,0 +1,147 @@
+season,team,points,won,played,nrr,win_pct
+2008,Rajasthan Royals,26,13,16,0.793,81.2
+2008,Punjab Kings,20,10,15,0.304,66.7
+2008,Chennai Super Kings,18,9,16,-0.007,56.2
+2008,Delhi Capitals,14,7,14,0.18,50.0
+2008,Mumbai Indians,14,7,14,0.149,50.0
+2008,Kolkata Knight Riders,12,6,13,-0.152,46.2
+2008,Royal Challengers Bengaluru,8,4,14,-0.98,28.6
+2008,Deccan Chargers,4,2,14,-0.356,14.3
+2009,Delhi Capitals,20,10,15,0.291,66.7
+2009,Deccan Chargers,18,9,16,0.378,56.2
+2009,Royal Challengers Bengaluru,18,9,16,-0.176,56.2
+2009,Chennai Super Kings,16,8,14,0.438,57.1
+2009,Punjab Kings,14,7,14,-0.444,50.0
+2009,Rajasthan Royals,12,6,13,-0.159,46.2
+2009,Mumbai Indians,10,5,13,0.161,38.5
+2009,Kolkata Knight Riders,6,3,13,-0.601,23.1
+2010,Mumbai Indians,22,11,16,0.709,68.8
+2010,Chennai Super Kings,18,9,16,0.358,56.2
+2010,Royal Challengers Bengaluru,16,8,16,0.264,50.0
+2010,Deccan Chargers,16,8,16,-0.405,50.0
+2010,Delhi Capitals,14,7,14,0.082,50.0
+2010,Kolkata Knight Riders,14,7,14,-0.46,50.0
+2010,Rajasthan Royals,12,6,14,-0.375,42.9
+2010,Punjab Kings,8,4,14,-0.34,28.6
+2011,Chennai Super Kings,22,11,16,0.525,68.8
+2011,Royal Challengers Bengaluru,20,10,16,0.324,62.5
+2011,Mumbai Indians,20,10,16,-0.022,62.5
+2011,Kolkata Knight Riders,16,8,15,0.223,53.3
+2011,Punjab Kings,14,7,14,-0.343,50.0
+2011,Deccan Chargers,12,6,14,0.173,42.9
+2011,Kochi Tuskers Kerala,12,6,14,-0.173,42.9
+2011,Rajasthan Royals,12,6,13,-0.43,46.2
+2011,Pune Warriors,8,4,13,-0.144,30.8
+2011,Delhi Capitals,8,4,13,-0.409,30.8
+2012,Kolkata Knight Riders,24,12,17,0.451,70.6
+2012,Delhi Capitals,22,11,18,0.298,61.1
+2012,Chennai Super Kings,20,10,18,0.335,55.6
+2012,Mumbai Indians,20,10,17,-0.131,58.8
+2012,Royal Challengers Bengaluru,16,8,15,-0.147,53.3
+2012,Punjab Kings,16,8,16,-0.187,50.0
+2012,Rajasthan Royals,14,7,16,0.196,43.8
+2012,Deccan Chargers,8,4,15,-0.303,26.7
+2012,Pune Warriors,8,4,16,-0.584,25.0
+2013,Mumbai Indians,26,13,19,0.297,68.4
+2013,Chennai Super Kings,24,12,18,0.546,66.7
+2013,Rajasthan Royals,22,11,18,0.297,61.1
+2013,Sunrisers Hyderabad,20,10,17,-0.105,58.8
+2013,Royal Challengers Bengaluru,18,9,16,0.356,56.2
+2013,Punjab Kings,16,8,16,0.254,50.0
+2013,Kolkata Knight Riders,12,6,16,-0.085,37.5
+2013,Pune Warriors,8,4,16,-0.867,25.0
+2013,Delhi Capitals,6,3,16,-0.816,18.8
+2014,Punjab Kings,24,12,17,0.612,70.6
+2014,Kolkata Knight Riders,22,11,16,0.426,68.8
+2014,Chennai Super Kings,20,10,16,0.139,62.5
+2014,Mumbai Indians,14,7,15,0.071,46.7
+2014,Rajasthan Royals,14,7,14,-0.032,50.0
+2014,Sunrisers Hyderabad,12,6,14,-0.41,42.9
+2014,Royal Challengers Bengaluru,10,5,14,-0.16,35.7
+2014,Delhi Capitals,4,2,14,-0.919,14.3
+2015,Chennai Super Kings,20,10,17,0.312,58.8
+2015,Mumbai Indians,20,10,16,0.165,62.5
+2015,Royal Challengers Bengaluru,16,8,14,0.756,57.1
+2015,Kolkata Knight Riders,14,7,13,0.25,53.8
+2015,Rajasthan Royals,14,7,13,-0.136,53.8
+2015,Sunrisers Hyderabad,14,7,14,-0.157,50.0
+2015,Delhi Capitals,10,5,13,-0.094,38.5
+2015,Punjab Kings,6,3,14,-1.098,21.4
+2016,Sunrisers Hyderabad,22,11,17,0.168,64.7
+2016,Royal Challengers Bengaluru,18,9,16,0.938,56.2
+2016,Gujarat Lions,18,9,16,-0.437,56.2
+2016,Kolkata Knight Riders,16,8,15,0.053,53.3
+2016,Mumbai Indians,14,7,14,-0.081,50.0
+2016,Delhi Capitals,14,7,14,-0.178,50.0
+2016,Rising Pune Supergiants,10,5,14,-0.016,35.7
+2016,Punjab Kings,8,4,14,-0.567,28.6
+2017,Mumbai Indians,24,12,17,0.524,70.6
+2017,Rising Pune Supergiants,20,10,16,0.219,62.5
+2017,Kolkata Knight Riders,18,9,16,0.306,56.2
+2017,Sunrisers Hyderabad,16,8,14,0.332,57.1
+2017,Punjab Kings,14,7,14,-0.02,50.0
+2017,Delhi Capitals,12,6,14,-0.293,42.9
+2017,Gujarat Lions,8,4,14,-0.444,28.6
+2017,Royal Challengers Bengaluru,6,3,13,-0.903,23.1
+2018,Chennai Super Kings,22,11,16,0.241,68.8
+2018,Sunrisers Hyderabad,20,10,17,0.038,58.8
+2018,Kolkata Knight Riders,18,9,16,-0.164,56.2
+2018,Rajasthan Royals,14,7,15,-0.275,46.7
+2018,Royal Challengers Bengaluru,12,6,14,0.204,42.9
+2018,Mumbai Indians,12,6,14,0.172,42.9
+2018,Punjab Kings,12,6,14,-0.192,42.9
+2018,Delhi Capitals,10,5,14,-0.027,35.7
+2019,Mumbai Indians,22,11,16,0.324,68.8
+2019,Delhi Capitals,20,10,16,0.13,62.5
+2019,Chennai Super Kings,20,10,17,-0.027,58.8
+2019,Sunrisers Hyderabad,12,6,15,0.566,40.0
+2019,Kolkata Knight Riders,12,6,14,-0.089,42.9
+2019,Punjab Kings,12,6,14,-0.218,42.9
+2019,Royal Challengers Bengaluru,10,5,13,-0.403,38.5
+2019,Rajasthan Royals,10,5,13,-0.459,38.5
+2020,Mumbai Indians,22,11,16,1.113,68.8
+2020,Delhi Capitals,18,9,17,-0.256,52.9
+2020,Sunrisers Hyderabad,16,8,16,0.285,50.0
+2020,Royal Challengers Bengaluru,14,7,15,-0.13,46.7
+2020,Kolkata Knight Riders,14,7,14,-0.242,50.0
+2020,Punjab Kings,12,6,14,-0.09,42.9
+2020,Rajasthan Royals,12,6,14,-0.382,42.9
+2020,Chennai Super Kings,12,6,14,-0.388,42.9
+2021,Chennai Super Kings,22,11,16,0.516,68.8
+2021,Delhi Capitals,20,10,16,0.314,62.5
+2021,Kolkata Knight Riders,18,9,17,0.334,52.9
+2021,Royal Challengers Bengaluru,18,9,15,-0.149,60.0
+2021,Mumbai Indians,14,7,14,0.163,50.0
+2021,Punjab Kings,12,6,14,-0.011,42.9
+2021,Rajasthan Royals,10,5,14,-0.786,35.7
+2021,Sunrisers Hyderabad,6,3,14,-0.584,21.4
+2022,Gujarat Titans,24,12,16,0.134,75.0
+2022,Rajasthan Royals,20,10,17,0.343,58.8
+2022,Lucknow Super Giants,18,9,15,0.183,60.0
+2022,Royal Challengers Bengaluru,18,9,16,-0.284,56.2
+2022,Delhi Capitals,14,7,14,0.261,50.0
+2022,Punjab Kings,14,7,14,-0.008,50.0
+2022,Kolkata Knight Riders,12,6,14,0.197,42.9
+2022,Sunrisers Hyderabad,12,6,14,-0.345,42.9
+2022,Chennai Super Kings,8,4,14,-0.054,28.6
+2022,Mumbai Indians,8,4,14,-0.49,28.6
+2023,Gujarat Titans,22,11,17,0.606,64.7
+2023,Chennai Super Kings,20,10,15,0.717,66.7
+2023,Mumbai Indians,18,9,16,0.067,56.2
+2023,Lucknow Super Giants,16,8,14,-0.029,57.1
+2023,Rajasthan Royals,14,7,14,0.481,50.0
+2023,Royal Challengers Bengaluru,14,7,14,-0.009,50.0
+2023,Punjab Kings,12,6,14,-0.36,42.9
+2023,Kolkata Knight Riders,12,6,14,-0.392,42.9
+2023,Delhi Capitals,10,5,14,-0.695,35.7
+2023,Sunrisers Hyderabad,8,4,14,-0.581,28.6
+2024,Kolkata Knight Riders,22,11,14,1.291,78.6
+2024,Rajasthan Royals,18,9,15,0.107,60.0
+2024,Sunrisers Hyderabad,18,9,16,-0.037,56.2
+2024,Chennai Super Kings,14,7,14,0.415,50.0
+2024,Royal Challengers Bengaluru,14,7,15,0.275,46.7
+2024,Delhi Capitals,14,7,14,-0.133,50.0
+2024,Lucknow Super Giants,14,7,14,-0.585,50.0
+2024,Punjab Kings,10,5,14,-0.198,35.7
+2024,Gujarat Titans,10,5,12,-1.035,41.7
+2024,Mumbai Indians,8,4,14,-0.216,28.6
